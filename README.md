@@ -75,7 +75,15 @@ MindsDB follows a simple workflow: **Connect → Unify → Respond**. At the cen
       <strong><a href="https://docs.mindsdb.com/mindsdb-respond?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo">Respond</a></strong>
     </td>
     <td style="width:75%; border:none; padding:8px 16px; vertical-align:middle;">
-      <strong>Autonomous reasoning:</strong> Deploy agents that blend and retrieve data points across your stack to produce grounded answers.
+      <strong>Autonomous reasoning:</strong> Deploy AI models that blend and retrieve data points across your stack to produce grounded answers.
+    </td>
+  </tr>
+  <tr>
+    <td style="width:25%; border:none; padding:8px 16px; vertical-align:middle;">
+      <strong><a href="docs/deepwiki.md">Robust Deployment</a></strong>
+    </td>
+    <td style="width:75%; border:none; padding:8px 16px; vertical-align:middle;">
+      <strong>Pure SQL LLMs (Groq & Gemini):</strong> Maximize performance and avoid graphical interface/Agent API constraints by deploying AI natively using <code>CREATE MODEL</code> alongside <code>JOIN</code> queries. Check our <a href="docs/deepwiki.md">DeepWiki</a> for the CLI instructions.
     </td>
   </tr>
 </table>
